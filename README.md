@@ -9,14 +9,11 @@
 <ul>
   1. Conforme as orientações do(a) tutor(a), trabalhem em trios para modelar o Diagrama de Processo do Negócio:</li>
     <ul>
-      <li>identifique onde, possivelmente, sua atuação profissional está inserida na elaboração do processo de negócio;</li>
+      <li>identifique onde, possivelmente, sua atuação profissional está inserida na elaboração do processo de negócio.</li>
     </ul>
-  2. Submeta a atividade do trio no Ambiente Virtual de Aprendizagem, conforme instruções; <br>
-  3. Faça os ajustes e melhorias sugeridas; <br>
-  4. Faça a submissão final no Ambiente Virtual de Aprendizagem, conforme instruções. <br>
 </ul>
 
-#### Lembre-se dos elementos essenciais da BPMN para modelagem do processo (a avaliação do processo modelado será realizada por meio da verificação da completude desses elementos):
+#### Lembre-se dos elementos essenciais da BPMN para modelagem do processo:
 
 <ul>
   <li>Marcador de início e fim do processo;</li>
