@@ -4,13 +4,10 @@
 <br>
 
 ## Estudo de caso
-#### A partir da descrição do estadiamento clínico da dengue, apresentado na Unidade 4 do ebook,  faça o seguinte:
+#### A partir da descrição do estadiamento clínico da dengue, faça o seguinte:
 
 <ul>
-  1. Conforme as orientações do(a) tutor(a), trabalhem em trios para modelar o Diagrama de Processo do Negócio:</li>
-    <ul>
-      <li>identifique onde, possivelmente, sua atuação profissional está inserida na elaboração do processo de negócio.</li>
-    </ul>
+  <li>Identifique onde, possivelmente, sua atuação profissional está inserida na elaboração do processo de negócio.</li>
 </ul>
 
 #### Lembre-se dos elementos essenciais da BPMN para modelagem do processo:
