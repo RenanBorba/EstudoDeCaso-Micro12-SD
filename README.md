@@ -1,6 +1,8 @@
 # Pós-Graduação Lato Sensu em Saúde Digital - UFG
 ## Micro 12: Modelagem de Processos de Saúde
 ### Como processos podem ser registrados? Um primeiro passo para melhorias.
+<br>
+
 ## Estudo de caso
 #### A partir da descrição do estadiamento clínico da dengue, apresentado na Unidade 4 do ebook,  faça o seguinte:
 
