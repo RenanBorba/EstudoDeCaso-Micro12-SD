@@ -1,4 +1,4 @@
-# Pós-Graduação Lato Sensu em Saúde Digital - UFG
+# Pós-Graduação Lato Sensu em Saúde Digital
 ## Micro 12: Modelagem de Processos de Saúde
 ### Como processos podem ser registrados? Um primeiro passo para melhorias.
 <br>
