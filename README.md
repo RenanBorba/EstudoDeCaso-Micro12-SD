@@ -20,3 +20,8 @@
   <li>Definição de Entradas e Saídas das atividades, se aplicável;</li>
   <li>Agrupamento dessas atividades (pools e raias); e</li>
   <li>Identificação de subprocessos, se aplicável.</li>
+
+  <br><br>
+
+  ![diagramaBPMN_EstudoDeCaso_Micro12_ModelagemDeProcessosDeSaúde](https://github.com/RenanBorba/EstudoDeCaso-Micro27-SD/assets/48495838/7d78aa4e-e5d9-4ac3-84ee-50ee094330f5)
+
